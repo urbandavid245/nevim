@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    
+}
+p {
+    font-size: x-large;
+    
+    
+}
+body {
+    background-image: url(obrazky/jindra.jpg);
+    font-family: 'Jacquard 24';
+}
+h1 {
+    font-size: xx-large;
+}
+h4 {
+    font-size: larger;
+}  
+img {
+    margin-top: -70px;
+
+}

@@ -1,0 +1,38 @@
+h1, p {
+    text-align: center;
+}
+h1 {
+    font-size: xx-large;
+    background-color: rgb(1, 141, 1);
+    color: rgb(0, 4, 255,)
+    
+   
+}
+p {
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    
+}
+h4 {
+    font-size: larger;
+}
+img {
+   
+    position: absolute;
+}
+.text-box {
+    width: 1000px;
+    height: 1000x;
+    border: 1px solid #009919;
+    padding: 10px;
+    overflow: auto;
+    text-align: center;
+}
+
+.druhy{
+    margin-top: 500px;
+}
+body {
+    background-color: rgba(1, 141, 1, 0.384);
+    font-family:'Jacquard 24';
+}
